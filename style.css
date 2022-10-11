@@ -47,6 +47,7 @@ body{
     text-align: center;
     box-shadow: 10px 10px 5px  rgb(14, 15, 68);
     border: none;
+    transition: .5s;
 }
 
 
